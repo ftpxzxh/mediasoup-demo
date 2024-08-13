@@ -1,0 +1,1 @@
+FROM mediasoup-demo:latest
